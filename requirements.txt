@@ -1,4 +1,9 @@
-python-telegram-bot
-yfinance
-pandas
-ta
+flask==3.0.0
+flask-cors==4.0.0
+python-telegram-bot==20.2
+yfinance==0.2.35
+pandas==2.1.4
+ta==0.10.2
+requests==2.31.0
+gunicorn==21.2.0
+python-dotenv==1.0.0
